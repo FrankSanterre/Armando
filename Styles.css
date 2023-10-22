@@ -1,0 +1,40 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+ul
+{
+    display: flex;
+    list-style: none;
+    gap:10px;
+    justify-content: space-between;
+    color:white;
+    background-color: black;
+    height: 50px;
+    align-items: center;
+}
+aside
+{
+    display: flex;
+    justify-content: right;
+    justify-items: right;
+   
+}
+#Pub
+{
+    margin-right: 50px;
+    border-top: 1px gainsboro solid;
+    border-bottom: 1px gainsboro solid;
+    padding-top : 10px;
+    padding-bottom : 10px;
+    height : 400px ;
+    width : 200px;
+}
+h1
+{
+    color: white;
+}
+
+   
